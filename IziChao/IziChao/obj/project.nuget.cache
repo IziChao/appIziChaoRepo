@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "gfhR0JsvCAEKgHo+kMAW57zwtnJWVEL5YJjJgqiSHoN0H6JnZ4MLw5JYqoSMpPNDWPLvPi92rCNVT+qxbIrv/g==",
+  "dgSpecHash": "lEnkhmJ70xF3EtymbFRt0iJQ1zCUMfu7sHu5Nxdt1Pz9mdoieAOG7w69Nvukj/DwBvOQMbyHLTRgAcPwqfg8zA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Milagros\\Desktop\\proyectoApp\\appIziChaoRepo\\IziChao\\IziChao\\IziChao.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Milagros\\.nuget\\packages\\livexaml\\2.1.73\\livexaml.2.1.73.nupkg.sha512",
     "C:\\Users\\Milagros\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Milagros\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\Milagros\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

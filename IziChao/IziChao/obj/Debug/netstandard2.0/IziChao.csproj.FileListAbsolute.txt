@@ -1,0 +1,14 @@
+C:\Users\Milagros\Desktop\proyectoApp\appIziChaoRepo\IziChao\IziChao\bin\Debug\netstandard2.0\IziChao.deps.json
+C:\Users\Milagros\Desktop\proyectoApp\appIziChaoRepo\IziChao\IziChao\bin\Debug\netstandard2.0\IziChao.dll
+C:\Users\Milagros\Desktop\proyectoApp\appIziChaoRepo\IziChao\IziChao\bin\Debug\netstandard2.0\ref\IziChao.dll
+C:\Users\Milagros\Desktop\proyectoApp\appIziChaoRepo\IziChao\IziChao\bin\Debug\netstandard2.0\IziChao.pdb
+C:\Users\Milagros\Desktop\proyectoApp\appIziChaoRepo\IziChao\IziChao\obj\Debug\netstandard2.0\IziChao.csprojAssemblyReference.cache
+C:\Users\Milagros\Desktop\proyectoApp\appIziChaoRepo\IziChao\IziChao\obj\Debug\netstandard2.0\Views\Ventana1Principal.xaml.g.cs
+C:\Users\Milagros\Desktop\proyectoApp\appIziChaoRepo\IziChao\IziChao\obj\Debug\netstandard2.0\IziChao.AssemblyInfoInputs.cache
+C:\Users\Milagros\Desktop\proyectoApp\appIziChaoRepo\IziChao\IziChao\obj\Debug\netstandard2.0\IziChao.AssemblyInfo.cs
+C:\Users\Milagros\Desktop\proyectoApp\appIziChaoRepo\IziChao\IziChao\obj\Debug\netstandard2.0\IziChao.dll
+C:\Users\Milagros\Desktop\proyectoApp\appIziChaoRepo\IziChao\IziChao\obj\Debug\netstandard2.0\ref\IziChao.dll
+C:\Users\Milagros\Desktop\proyectoApp\appIziChaoRepo\IziChao\IziChao\obj\Debug\netstandard2.0\IziChao.pdb
+C:\Users\Milagros\Desktop\proyectoApp\appIziChaoRepo\IziChao\IziChao\obj\Debug\netstandard2.0\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Milagros\Desktop\proyectoApp\appIziChaoRepo\IziChao\IziChao\obj\Debug\netstandard2.0\IziChao.csproj.CoreCompileInputs.cache
+C:\Users\Milagros\Desktop\proyectoApp\appIziChaoRepo\IziChao\IziChao\obj\Debug\netstandard2.0\XamlC.stamp

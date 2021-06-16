@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XamlProjectMeta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Files>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Milagros\Desktop\proyectoApp\appIziChaoRepo\IziChao\IziChao\App.xaml</FilePath>
+      <Hash>07-10-9E-F1-6F-A6-0D-C1-BC-3E-27-9E-79-D7-ED-15</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Milagros\Desktop\proyectoApp\appIziChaoRepo\IziChao\IziChao\Views\Ventana1Principal.xaml</FilePath>
+      <Hash>45-6F-BC-0B-00-B2-B2-E2-A9-7D-80-D4-E2-71-6F-93</Hash>
+      <Properties>
+        <string>BackgroundImage</string>
+      </Properties>
+    </XamlFileMeta>
+  </Files>
+</XamlProjectMeta>

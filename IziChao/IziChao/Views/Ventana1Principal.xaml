@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="IziChao.Views.Ventana1Principal"  BackgroundImage="fondoapp.jpg">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout>
+                <Image Source="portada.png" />
+            </StackLayout>
+            <StackLayout>
+                <Image Source="rentangulo.png"/>
+                <Button Text="Ingresar" CornerRadius="15" BackgroundColor="#7B5C36" TextColor="White"></Button>
+                <Button Text="Registrar" CornerRadius="15" BackgroundColor="#7B5C36" TextColor="White"></Button>
+            </StackLayout>
+        </StackLayout>
+       
+    </ContentPage.Content>
+</ContentPage>
+    
+    

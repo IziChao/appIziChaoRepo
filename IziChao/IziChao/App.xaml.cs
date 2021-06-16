@@ -10,7 +10,7 @@ namespace IziChao
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new Views.Ventana1Principal();
         }
 
         protected override void OnStart()
