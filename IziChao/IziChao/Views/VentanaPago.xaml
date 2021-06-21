@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="IziChao.Views.VentanaPago" 
+             BackgroundImage="fondoapp.jpg">
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame  Margin="40" HeightRequest="325"
+                       Padding="15" BackgroundColor="White">
+                <StackLayout Padding="15,12">
+
+
+                </StackLayout>
+            </Frame>
+            <BoxView Color="#7B5C36"
+                                 HeightRequest="4" HorizontalOptions="Fill"  Margin="0"/>
+
+            <Button Text="Salir" Margin="25" Padding="10" CornerRadius="15" BackgroundColor="#7B5C36" TextColor="White"  FontSize="18" 
+                        x:Name="btnPagarCompra" BorderColor="White" BorderWidth="2" />
+            <Button Text="Realizar otra Compra" Margin="5" Padding="5" CornerRadius="15" BackgroundColor="#7B5C36" TextColor="White"  FontSize="18" 
+                        x:Name="btnPagarCompra" BorderColor="White" BorderWidth="2"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -8,7 +8,21 @@
     </XamlFileMeta>
     <XamlFileMeta>
       <FilePath>C:\Users\Milagros\Desktop\proyectoApp\appIziChaoRepo\IziChao\IziChao\Views\Ventana1Principal.xaml</FilePath>
-      <Hash>45-6F-BC-0B-00-B2-B2-E2-A9-7D-80-D4-E2-71-6F-93</Hash>
+      <Hash>F9-A1-87-C7-C5-83-B2-F2-07-48-7C-0E-03-C8-14-36</Hash>
+      <Properties>
+        <string>BackgroundImage</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Milagros\Desktop\proyectoApp\appIziChaoRepo\IziChao\IziChao\Views\VentanaFinalizarCompra.xaml</FilePath>
+      <Hash>48-29-EC-6A-9B-AF-61-EC-FD-D8-DE-51-A5-00-28-76</Hash>
+      <Properties>
+        <string>BackgroundImage</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Milagros\Desktop\proyectoApp\appIziChaoRepo\IziChao\IziChao\Views\VentanaPago.xaml</FilePath>
+      <Hash>A8-45-8A-FC-DF-99-20-D5-E3-4D-96-23-41-F7-7C-6A</Hash>
       <Properties>
         <string>BackgroundImage</string>
       </Properties>

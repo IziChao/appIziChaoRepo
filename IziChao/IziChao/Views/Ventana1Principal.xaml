@@ -3,14 +3,43 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="IziChao.Views.Ventana1Principal"  BackgroundImage="fondoapp.jpg">
     <ContentPage.Content>
-        <StackLayout>
+       
+        <StackLayout Spacing="0">
             <StackLayout>
                 <Image Source="portada.png" />
             </StackLayout>
             <StackLayout>
-                <Image Source="rentangulo.png"/>
-                <Button Text="Ingresar" CornerRadius="15" BackgroundColor="#7B5C36" TextColor="White"></Button>
-                <Button Text="Registrar" CornerRadius="15" BackgroundColor="#7B5C36" TextColor="White"></Button>
+                <Label   Text="IZICHAO" TextColor="White" HorizontalOptions="Center" FontFamily="Rubik" FontSize="30" FontAttributes="Bold" ></Label>
+            </StackLayout>
+
+            
+            <StackLayout BackgroundColor="#B6A8A8A3" HorizontalOptions="Fill"  Padding="30" >
+
+                <Frame CornerRadius="10" HorizontalOptions="Center" Margin="30" BackgroundColor="White" HasShadow="True">
+                    <StackLayout Padding="30" >
+                        <Button Text="Iniciar Sesión"
+                        CornerRadius="15" 
+                        BackgroundColor="#7B5C36"
+                        TextColor="White"
+                        BorderColor="white"
+                        BorderWidth="1"
+                        HorizontalOptions="Center"></Button>
+                        <Button Text="Crear cuenta" 
+                                 
+                        CornerRadius="15" 
+                        BackgroundColor="#7B5C36" 
+                        TextColor="White"
+                        BorderColor="white"
+                        BorderWidth="2"
+                        HorizontalOptions="Center"></Button>
+                    </StackLayout>
+                    
+                </Frame>
+               
+                
+            </StackLayout>
+            <StackLayout >
+                <BoxView  Color="#7B5C36" HeightRequest="2" HorizontalOptions="Fill" />
             </StackLayout>
         </StackLayout>
        
