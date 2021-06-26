@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "T4m71NWyd9toe8vdEmMcYAKURoIDmJoKzaNXPGRZVwbh4QODeCdFfhi8961gXUK16vk6+OgVzoXzSrGx06I6Ag==",
+  "dgSpecHash": "NI8pGWPOK657pxjy7u2Ur2wRD1pazdWjqPw//Jy/cGkyZU7kktY4UMiSOHlFSwzLuJ3DtUhrq2tL9aCLxZW/Iw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Milagros\\Downloads\\appIziChaoRepo-master\\IziChao\\IziChao\\IziChao.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,9 @@
     "C:\\Users\\Milagros\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\Milagros\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512",
+    "C:\\Users\\Milagros\\.nuget\\packages\\zxing.net.mobile\\2.4.1\\zxing.net.mobile.2.4.1.nupkg.sha512",
+    "C:\\Users\\Milagros\\.nuget\\packages\\zxing.net.mobile.forms\\2.4.1\\zxing.net.mobile.forms.2.4.1.nupkg.sha512"
   ],
   "logs": []
 }

@@ -4,7 +4,9 @@
              x:Class="IziChao.Views.VentanaScanner">
     <ContentPage.Content>
         <StackLayout>
-            <Button Clicked="BtnScanner_Clicked"/>
+            
+            <Button x:Name="BtnScanner" Text="Lector Qr" Clicked="BtnScanner_Clicked"/>
+            <Entry x:Name="txtResultado" Placeholder="Resultado del QR" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -21,7 +21,6 @@ C:\Users\Milagros\Downloads\appIziChaoRepo-master\IziChao\IziChao\obj\Debug\nets
 C:\Users\Milagros\Downloads\appIziChaoRepo-master\IziChao\IziChao\obj\Debug\netstandard2.0\Views\VentanaPago.xaml.g.cs
 C:\Users\Milagros\Downloads\appIziChaoRepo-master\IziChao\IziChao\obj\Debug\netstandard2.0\IziChao.AssemblyInfoInputs.cache
 C:\Users\Milagros\Downloads\appIziChaoRepo-master\IziChao\IziChao\obj\Debug\netstandard2.0\IziChao.AssemblyInfo.cs
-C:\Users\Milagros\Downloads\appIziChaoRepo-master\IziChao\IziChao\obj\Debug\netstandard2.0\IziChao.csproj.CoreCompileInputs.cache
 C:\Users\Milagros\Downloads\appIziChaoRepo-master\IziChao\IziChao\obj\Debug\netstandard2.0\IziChao.dll
 C:\Users\Milagros\Downloads\appIziChaoRepo-master\IziChao\IziChao\obj\Debug\netstandard2.0\ref\IziChao.dll
 C:\Users\Milagros\Downloads\appIziChaoRepo-master\IziChao\IziChao\obj\Debug\netstandard2.0\IziChao.pdb
@@ -29,7 +28,8 @@ C:\Users\Milagros\Downloads\appIziChaoRepo-master\IziChao\IziChao\bin\Debug\nets
 C:\Users\Milagros\Downloads\appIziChaoRepo-master\IziChao\IziChao\bin\Debug\netstandard2.0\IziChao.dll
 C:\Users\Milagros\Downloads\appIziChaoRepo-master\IziChao\IziChao\bin\Debug\netstandard2.0\ref\IziChao.dll
 C:\Users\Milagros\Downloads\appIziChaoRepo-master\IziChao\IziChao\bin\Debug\netstandard2.0\IziChao.pdb
-C:\Users\Milagros\Downloads\appIziChaoRepo-master\IziChao\IziChao\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\Milagros\Downloads\appIziChaoRepo-master\IziChao\IziChao\obj\Debug\netstandard2.0\Views\VentanaScanner.xaml.g.cs
 C:\Users\Milagros\Downloads\appIziChaoRepo-master\IziChao\IziChao\obj\Debug\netstandard2.0\Views\Ventana2InicioS.xaml.g.cs
 C:\Users\Milagros\Downloads\appIziChaoRepo-master\IziChao\IziChao\obj\Debug\netstandard2.0\Views\Ventana3CrearCuenta.xaml.g.cs
+C:\Users\Milagros\Downloads\appIziChaoRepo-master\IziChao\IziChao\obj\Debug\netstandard2.0\IziChao.csproj.CoreCompileInputs.cache
+C:\Users\Milagros\Downloads\appIziChaoRepo-master\IziChao\IziChao\obj\Debug\netstandard2.0\XamlC.stamp
