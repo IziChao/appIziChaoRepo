@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OfgAI5pSYWlKRgISehCitLlEpjfKctYBRzCoT2TdT61gs8tGIncKTKDjXUK+E2Q8HRoY+FeWQTrXUyHKQA6j6g==",
+  "dgSpecHash": "MrU7tos3ufSGw5ZEKBHXb4i6MUlJD+ybdLQxOWy4oofYawt10S+G66FiKACQzWX8zxEbGs6cymI6Jlco6lHHyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Milagros\\Desktop\\proyectoApp\\appIziChaoRepo\\IziChao\\IziChao.iOS\\IziChao.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Milagros\\Downloads\\appIziChaoRepo-master\\IziChao\\IziChao.iOS\\IziChao.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Milagros\\.nuget\\packages\\livexaml\\2.1.73\\livexaml.2.1.73.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="IziChao.Views.VentanaCarrito"
+             BackgroundImage="fondo8.jpg">
+    <ContentPage.Content>
+        <StackLayout Spacing="0">
+            <StackLayout Padding="20" >
+                <Label Text="Detalle de compra" TextColor="White" HorizontalOptions="Center"  FontSize="40" FontAttributes="Bold" ></Label>
+            </StackLayout>
+
+
+            <StackLayout BackgroundColor="Transparent" HorizontalOptions="Fill"  Padding="20" >
+
+                <Frame CornerRadius="10" HorizontalOptions="Center" Margin="15" BackgroundColor="Transparent" >
+                    <StackLayout >
+                        <TableView>
+                            <TableRoot>
+                                <TableSection>
+                                    <EntryCell>
+
+                                    </EntryCell>
+                                </TableSection>
+                                <TableSection>
+
+                                </TableSection>
+                            </TableRoot>
+
+
+                        </TableView>
+                    </StackLayout>
+
+                </Frame>
+
+
+            </StackLayout>
+
+            <StackLayout Padding="15">
+                <Button 
+                        Text="Añadir otro producto"
+                        Padding="15"
+                        FontSize="20"
+                        CornerRadius="15" 
+                        BackgroundColor="#7B5C36"
+                        TextColor="White"
+                        BorderColor="white"
+                        BorderWidth="2"
+                        VerticalOptions="EndAndExpand"
+                        HorizontalOptions="CenterAndExpand"
+                        Clicked="BtnOtroP_Clicked"/>
+                <Button 
+                        Padding="15"
+                       VerticalOptions="EndAndExpand"
+                        HorizontalOptions="CenterAndExpand" 
+                        Text="Pagar"   
+                        FontSize="20"
+                        CornerRadius="15" 
+                        BackgroundColor="#7B5C36" 
+                        TextColor="White"
+                        BorderColor="white"
+                        BorderWidth="2"
+                        Clicked="BtnPagar_Clicked"/>
+            </StackLayout>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

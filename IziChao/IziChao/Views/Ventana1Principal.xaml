@@ -1,46 +1,52 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="IziChao.Views.Ventana1Principal"  BackgroundImage="fondoapp.jpg">
+             x:Class="IziChao.Views.Ventana1Principal"  BackgroundImage="fondoV1.jpg">
     <ContentPage.Content>
        
-        <StackLayout Spacing="0">
-            <StackLayout>
-                <Image Source="portada.png" />
-            </StackLayout>
-            <StackLayout>
-                <Label   Text="IZICHAO" TextColor="White" HorizontalOptions="Center" FontFamily="Rubik" FontSize="30" FontAttributes="Bold" ></Label>
-            </StackLayout>
-
+        <StackLayout>
             
-            <StackLayout BackgroundColor="#B6A8A8A3" HorizontalOptions="Fill"  Padding="30" >
+            <StackLayout Padding="20" >
+                <Label Text="IZICHAO" TextColor="White" HorizontalOptions="Center"   FontSize="55" FontAttributes="Bold" ></Label>
+            </StackLayout>
+            <Frame CornerRadius="10" HorizontalOptions="Center"  BackgroundColor="#e9e1cc" Margin="15,100,15,20"  >
+                <StackLayout>
+                        <Image Source="logoI.png"  HeightRequest="230" ></Image>
 
-                <Frame CornerRadius="10" HorizontalOptions="Center" Margin="30" BackgroundColor="White" HasShadow="True">
-                    <StackLayout Padding="30" >
-                        <Button Text="Iniciar Sesión"
+                    </StackLayout>
+                    
+                </Frame>
+
+            <StackLayout Padding="50">
+                <Button 
+                        Text="Iniciar Sesión"
+                        Padding="15"
+                        FontSize="20"
                         CornerRadius="15" 
                         BackgroundColor="#7B5C36"
                         TextColor="White"
                         BorderColor="white"
-                        BorderWidth="1"
-                        HorizontalOptions="Center"></Button>
-                        <Button Text="Crear cuenta" 
-                                 
+                        BorderWidth="2"
+                        VerticalOptions="EndAndExpand"
+                        HorizontalOptions="CenterAndExpand"
+                       
+                        x:Name="btnV1IniciarS"
+                        Clicked="BtnV1IniciarS_Clicked"/>
+                <Button 
+                        Padding="15"
+                       VerticalOptions="EndAndExpand"
+                        HorizontalOptions="CenterAndExpand" 
+                        Text="Crear cuenta"   
+                        FontSize="20"
                         CornerRadius="15" 
                         BackgroundColor="#7B5C36" 
                         TextColor="White"
                         BorderColor="white"
                         BorderWidth="2"
-                        HorizontalOptions="Center"></Button>
-                    </StackLayout>
-                    
-                </Frame>
-               
+                        x:Name="btnV1CrearC"
+                        Clicked="BtnV1CrearC_Clicked"/>
+            </StackLayout>
                 
-            </StackLayout>
-            <StackLayout >
-                <BoxView  Color="#7B5C36" HeightRequest="2" HorizontalOptions="Fill" />
-            </StackLayout>
         </StackLayout>
        
     </ContentPage.Content>

@@ -16,5 +16,15 @@ namespace IziChao.Views
         {
             InitializeComponent();
         }
+
+        public async void BtnV1IniciarS_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushModalAsync(new Ventana2InicioS());   
+        }
+
+        private async void BtnV1CrearC_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushModalAsync(new Ventana3CrearCuenta());
+        }
     }
 }

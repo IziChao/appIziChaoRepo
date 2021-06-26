@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IdZ0HzNU3Qrbrq7QNH2SBwBfHtOTZgPvshyCoAjT56+0QxL07y6KVjEBx8rqnVHwurkPRdZePzORZ+B6fsv9Cg==",
+  "dgSpecHash": "6Somayhz54idcm1jbigKtP81Lw5GKAnlxX0LTQD7ZubtGr1Dwc66BD4wv+k2y21fhz/hrIgd7goVtAPwWH+e0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Milagros\\Desktop\\proyectoApp\\appIziChaoRepo\\IziChao\\IziChao.Android\\IziChao.Android.csproj",
+  "projectFilePath": "C:\\Users\\Milagros\\Downloads\\appIziChaoRepo-master\\IziChao\\IziChao.Android\\IziChao.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Milagros\\.nuget\\packages\\livexaml\\2.1.73\\livexaml.2.1.73.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",

@@ -1,24 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="IziChao.Views.VentanaPago" 
-             BackgroundImage="fondoapp.jpg">
+             x:Class="IziChao.Views.VentanaPago"
+             BackgroundImage="FONDO7.jpeg">
     <ContentPage.Content>
         <StackLayout>
-            <Frame  Margin="40" HeightRequest="325"
-                       Padding="15" BackgroundColor="White">
-                <StackLayout Padding="15,12">
+            <StackLayout Padding="15,60" Margin="53">
+                <Entry  x:Name="boxNomPropietario" Placeholder="Nombre del Propietario" />
+                <Entry  x:Name="boxApePropietario" Placeholder="Apellido del Propietario"/>
+                <Entry  x:Name="boxNumTarjeta" Placeholder="Numero de Tarjeta"/>
+                <Entry  x:Name="boxCVV" Placeholder="CVV"/>
+                <Entry  x:Name="boxFeVencimiento" Placeholder="Fecha de Vencimiento"/>
+                <Entry  x:Name="boxCorreo" Placeholder="Correo electronico"/>
+
+            </StackLayout>
+
+            <StackLayout >
+                <Button Text="Pagar Compra" Margin="10"  CornerRadius="15" BackgroundColor="#7B5C36"
+                                TextColor="White"  FontSize="18" 
+                                    x:Name="BtnPagarCompra" BorderColor="White" BorderWidth="2" Clicked="BtnPagarCompra_Clicked">
+
+                </Button>
+            </StackLayout>
 
 
-                </StackLayout>
-            </Frame>
-            <BoxView Color="#7B5C36"
-                                 HeightRequest="4" HorizontalOptions="Fill"  Margin="0"/>
-
-            <Button Text="Salir" Margin="25" Padding="10" CornerRadius="15" BackgroundColor="#7B5C36" TextColor="White"  FontSize="18" 
-                        x:Name="btnPagarCompra" BorderColor="White" BorderWidth="2" />
-            <Button Text="Realizar otra Compra" Margin="5" Padding="5" CornerRadius="15" BackgroundColor="#7B5C36" TextColor="White"  FontSize="18" 
-                        x:Name="btnPagarCompra" BorderColor="White" BorderWidth="2"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

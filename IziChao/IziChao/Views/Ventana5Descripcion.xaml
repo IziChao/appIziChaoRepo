@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="IziChao.Views.Ventana5Descripcion" BackgroundImage="fondoapp.jpg">
+ <ContentPage.Content>
+        <Grid Margin="20,20,20,20" RowSpacing="20" ColumnSpacing="20"  Opacity="50">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100"></RowDefinition>
+                <RowDefinition Height="120"></RowDefinition>
+                <RowDefinition Height="180"></RowDefinition>
+                <RowDefinition Height="80"></RowDefinition>
+                <RowDefinition Height="160"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="300"></ColumnDefinition>
+                <ColumnDefinition Width="100"></ColumnDefinition>
+                <ColumnDefinition Width="150"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Row="0" Grid.Column="0" Text="Resultado del Producto" VerticalOptions="Center" HorizontalOptions="Center" FontSize="30"  FontAttributes="Bold"  TextColor="Black" Margin="10" />
+            <ImageButton Source="Carrito.png" Grid.Row="0"  Grid.ColumnSpan="3" WidthRequest="50" HeightRequest="50" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" BackgroundColor="Transparent" Clicked="BtnCarrito_Clicked"/>
+            <BoxView Grid.Row="1" Grid.ColumnSpan="3" Color="WhiteSmoke" HeightRequest="5" CornerRadius="10" />
+            <Label Grid.Row="1" Grid.ColumnSpan="3" Text="Nombre del Producto " VerticalOptions="Start" HorizontalOptions="Start" FontSize="20" FontAttributes="None" TextColor="White" BackgroundColor="#ad8655" Padding="10" />
+            <BoxView Grid.Row="2" Grid.ColumnSpan="3" Color="WhiteSmoke" HeightRequest="5" CornerRadius="10" />
+            <Label Grid.Row="2" Grid.ColumnSpan="3" Text="Descripcion Del Produto" VerticalOptions="Start" HorizontalOptions="Start" FontSize="20" FontAttributes="None" BackgroundColor="#ad8655" TextColor="White" Padding="10" />
+            <BoxView Grid.Row="3" Grid.ColumnSpan="3" Color="WhiteSmoke" HeightRequest="5" CornerRadius="10"  />
+            <Label Grid.Row="3" Grid.Column="0" Text="Precio" VerticalOptions="Start" HorizontalOptions="Start" FontSize="20" FontAttributes="None" BackgroundColor="#ad8655" TextColor="White" Padding="10" />
+            <Button Grid.Row="4" Grid.Column="0" Text="Agregar" VerticalOptions="Center" HorizontalOptions="StartAndExpand" BackgroundColor="#7B5C36" TextColor="White" BorderColor="White" BorderWidth="2" CornerRadius="15" Padding="15" FontSize="20" Clicked="BtnAgregar_Clicked"/>
+            <Button Grid.Row="4" Grid.ColumnSpan="3" Text="Buscar" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" BackgroundColor="#7B5C36" TextColor="White" BorderColor="White" BorderWidth="2" CornerRadius="15" Padding="15" FontSize="20" Clicked="BtnBuscar_Clicked"/>
+
+        </Grid>
+
+
+
+
+
+
+    </ContentPage.Content>
+    
+</ContentPage>
