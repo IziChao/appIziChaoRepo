@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vUlqccwiCiImxNqi03Jf4ceFmp6awTXJK7wk+Cdrz2Fnlvhz9KHyiTwy8WsiiaMbH4zNK2BwpysfzjXORH8HtQ==",
+  "dgSpecHash": "EFX4wT8+5B5nwkJR2Fsldy4aT6LOEZWbqXmy9z3I2KEYOFYlyH89EU5OxvOtd2Q2TQB2ohzu4Ba9Yvwimz8RBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Milagros\\Downloads\\appIziChaoRepo-master\\IziChao\\IziChao.Android\\IziChao.Android.csproj",
+  "projectFilePath": "C:\\Users\\Milagros\\Desktop\\proyectoApp\\appIziChaoRepo\\IziChao\\IziChao.Android\\IziChao.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Milagros\\.nuget\\packages\\fastandroidcamera\\2.0.0\\fastandroidcamera.2.0.0.nupkg.sha512",
     "C:\\Users\\Milagros\\.nuget\\packages\\livexaml\\2.1.73\\livexaml.2.1.73.nupkg.sha512",

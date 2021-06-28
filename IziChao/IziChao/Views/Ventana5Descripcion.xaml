@@ -14,10 +14,10 @@
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="300"></ColumnDefinition>
                 <ColumnDefinition Width="100"></ColumnDefinition>
-                <ColumnDefinition Width="150"></ColumnDefinition>
+                <ColumnDefinition Width="90"></ColumnDefinition>
             </Grid.ColumnDefinitions>
             <Label Grid.Row="0" Grid.Column="0" Text="Resultado del Producto" VerticalOptions="Center" HorizontalOptions="Center" FontSize="30"  FontAttributes="Bold"  TextColor="Black" Margin="10" />
-            <ImageButton Source="Carrito.png" Grid.Row="0"  Grid.ColumnSpan="3" WidthRequest="50" HeightRequest="50" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" BackgroundColor="Transparent" Clicked="BtnCarrito_Clicked"/>
+            <ImageButton Source="Carrito.png" Grid.Row="0"  Grid.ColumnSpan="3" WidthRequest="50" HeightRequest="50"  VerticalOptions="Center" BackgroundColor="Transparent" Clicked="BtnCarrito_Clicked"/>
             <BoxView Grid.Row="1" Grid.ColumnSpan="3" Color="WhiteSmoke" HeightRequest="5" CornerRadius="10" />
             <Label Grid.Row="1" Grid.ColumnSpan="3" Text="Nombre del Producto " VerticalOptions="Start" HorizontalOptions="Start" FontSize="20" FontAttributes="None" TextColor="White" BackgroundColor="#ad8655" Padding="10" />
             <BoxView Grid.Row="2" Grid.ColumnSpan="3" Color="WhiteSmoke" HeightRequest="5" CornerRadius="10" />

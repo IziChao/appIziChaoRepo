@@ -1,24 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="IziChao.Views.Ventana1Principal"  BackgroundImage="fondoV1.jpg">
+             x:Class="IziChao.Views.Ventana1Principal"  BackgroundImage="V1.png">
     <ContentPage.Content>
        
         <StackLayout>
             
-            <StackLayout Padding="20" >
-                <Label Text="IZICHAO" TextColor="White" HorizontalOptions="Center"   FontSize="55" FontAttributes="Bold" ></Label>
-            </StackLayout>
-            <Frame CornerRadius="10" HorizontalOptions="Center"  BackgroundColor="#e9e1cc" Margin="15,100,15,20"  >
-                <StackLayout>
-                        <Image Source="logoI.png"  HeightRequest="230" ></Image>
-
-                    </StackLayout>
-                    
-                </Frame>
-
-            <StackLayout Padding="50">
-                <Button 
+         
+                <StackLayout Margin="0,360,0,0">
+                    <Button 
                         Text="Iniciar Sesión"
                         Padding="15"
                         FontSize="20"
@@ -32,7 +22,7 @@
                        
                         x:Name="btnV1IniciarS"
                         Clicked="BtnV1IniciarS_Clicked"/>
-                <Button 
+                    <Button 
                         Padding="15"
                        VerticalOptions="EndAndExpand"
                         HorizontalOptions="CenterAndExpand" 
@@ -45,6 +35,12 @@
                         BorderWidth="2"
                         x:Name="btnV1CrearC"
                         Clicked="BtnV1CrearC_Clicked"/>
+                </StackLayout>
+                    
+  
+
+            <StackLayout Padding="50">
+                
             </StackLayout>
                 
         </StackLayout>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NI8pGWPOK657pxjy7u2Ur2wRD1pazdWjqPw//Jy/cGkyZU7kktY4UMiSOHlFSwzLuJ3DtUhrq2tL9aCLxZW/Iw==",
+  "dgSpecHash": "j8M37A5z+varf4lcsTM4iiNz2EUp0WslKdxlte/NYdtvY4gsDAnhm2yakXdbDVM4Gt/k3iw92GV+iGI2fydOMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Milagros\\Downloads\\appIziChaoRepo-master\\IziChao\\IziChao\\IziChao.csproj",
+  "projectFilePath": "C:\\Users\\Milagros\\Desktop\\proyectoApp\\appIziChaoRepo\\IziChao\\IziChao\\IziChao.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Milagros\\.nuget\\packages\\livexaml\\2.1.73\\livexaml.2.1.73.nupkg.sha512",
     "C:\\Users\\Milagros\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

@@ -5,7 +5,7 @@
              BackgroundImage="FONDO8.jpg">
     <ContentPage.Content>
         <StackLayout>
-            <Frame  Margin="40" HeightRequest="365"
+            <Frame  Margin="40" HeightRequest="440"
                        Padding="15" BackgroundColor="White">
 
             </Frame>

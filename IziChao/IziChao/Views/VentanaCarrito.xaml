@@ -2,43 +2,21 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="IziChao.Views.VentanaCarrito"
-             BackgroundImage="fondo8.jpg">
+             BackgroundImage="V6.png">
     <ContentPage.Content>
         <StackLayout Spacing="0">
-            <StackLayout Padding="20" >
-                <Label Text="Detalle de compra" TextColor="White" HorizontalOptions="Center"  FontSize="40" FontAttributes="Bold" ></Label>
-            </StackLayout>
-
 
             <StackLayout BackgroundColor="Transparent" HorizontalOptions="Fill"  Padding="20" >
 
-                <Frame CornerRadius="10" HorizontalOptions="Center" Margin="15" BackgroundColor="Transparent" >
-                    <StackLayout >
-                        <TableView>
-                            <TableRoot>
-                                <TableSection>
-                                    <EntryCell>
+                <StackLayout HorizontalOptions="Center" Margin="0,150" >
 
-                                    </EntryCell>
-                                </TableSection>
-                                <TableSection>
-
-                                </TableSection>
-                            </TableRoot>
-
-
-                        </TableView>
-                    </StackLayout>
-
-                </Frame>
-
-
+                </StackLayout>
             </StackLayout>
 
-            <StackLayout Padding="15">
+            <StackLayout Padding="15" Margin="0,200">
                 <Button 
                         Text="Añadir otro producto"
-                        Padding="15"
+                        Padding="18"
                         FontSize="20"
                         CornerRadius="15" 
                         BackgroundColor="#7B5C36"
@@ -49,7 +27,7 @@
                         HorizontalOptions="CenterAndExpand"
                         Clicked="BtnOtroP_Clicked"/>
                 <Button 
-                        Padding="15"
+                        Padding="18"
                        VerticalOptions="EndAndExpand"
                         HorizontalOptions="CenterAndExpand" 
                         Text="Pagar"   

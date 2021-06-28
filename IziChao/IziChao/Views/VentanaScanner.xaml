@@ -1,12 +1,37 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="IziChao.Views.VentanaScanner">
+             x:Class="IziChao.Views.VentanaScanner"
+             BackgroundImage="fondo8.jpg">
     <ContentPage.Content>
-        <StackLayout>
-            
-            <Button x:Name="BtnScanner" Text="Lector Qr" Clicked="BtnScanner_Clicked"/>
-            <Entry x:Name="txtResultado" Placeholder="Resultado del QR" />
+         <StackLayout>
+            <StackLayout HeightRequest="180" WidthRequest="100" Margin="15" >
+
+                    <Label Text="¡Hola Milagros :) !"  FontSize="40" TextColor="Black"  VerticalOptions="CenterAndExpand"  />
+
+                </StackLayout>
+          
+           
+            <Frame CornerRadius="10" HorizontalOptions="Center"  BackgroundColor="#e9e1cc" Margin="15,0,15,20"  >
+                <StackLayout>
+                    <Image Source="logoI.png"  HeightRequest="230" ></Image>
+                </StackLayout>
+            </Frame>
+
+            <StackLayout Padding="50">
+
+                <Button x:Name="BtnScanner" Text="Lector Qr" Clicked="BtnScanner_Clicked" 
+                        CornerRadius="15" 
+                        BackgroundColor="#7B5C36" 
+                        TextColor="White"
+                        BorderColor="white"
+                        BorderWidth="2"     
+                        Padding="15" 
+                        FontSize="20"
+            />
+                
+            </StackLayout>
+
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

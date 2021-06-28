@@ -31,7 +31,7 @@ namespace IziChao.Views
 
                 if (result != null)
                 {
-                    txtResultado.Text = result.Text;
+  
                     await Navigation.PushModalAsync(new Ventana5Descripcion());
                 }
 

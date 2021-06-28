@@ -1,12 +1,36 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="IziChao.Views.Ventana2InicioS">
+             x:Class="IziChao.Views.Ventana2InicioS"
+             BackgroundImageSource="V2.png">
     <ContentPage.Content>
+
         <StackLayout>
-            <Button Clicked="BtnIngresar_Clicked">
-                
-            </Button>
+            <StackLayout  Padding="50" Margin="0,320,0,0">
+                <Entry Placeholder="Correo Electronico" />
+                <Entry Placeholder="Contraseña" IsPassword="True"/>
+
+            </StackLayout>
+
+            <StackLayout  Margin="0,100,0,0">
+                <Button
+                        Text="Iniciar"
+                        Padding="20"
+                        VerticalOptions="EndAndExpand"
+                        HorizontalOptions="CenterAndExpand" 
+                        FontSize="20"
+                        CornerRadius="15" 
+                        BackgroundColor="#7B5C36" 
+                        FontAttributes="Bold"
+                        TextColor="White"
+                        BorderColor="white"
+                        BorderWidth="2"
+                        x:Name="btnIniciarSesion"
+                        Clicked="BtnIngresar_Clicked"/>
+            </StackLayout>
+
         </StackLayout>
+                
+
     </ContentPage.Content>
 </ContentPage>

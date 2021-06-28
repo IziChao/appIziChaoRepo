@@ -2,59 +2,65 @@
 <XamlProjectMeta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Files>
     <XamlFileMeta>
-      <FilePath>C:\Users\Milagros\Downloads\appIziChaoRepo-master\IziChao\IziChao\App.xaml</FilePath>
+      <FilePath>C:\Users\Milagros\Desktop\proyectoApp\appIziChaoRepo\IziChao\IziChao\App.xaml</FilePath>
       <Hash>D4-C6-C9-33-AE-59-A5-58-CF-07-B3-F2-6E-AD-E1-BB</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>C:\Users\Milagros\Downloads\appIziChaoRepo-master\IziChao\IziChao\Views\Ventana1Principal.xaml</FilePath>
-      <Hash>2E-EF-88-2C-92-FB-3C-61-CA-A2-B2-92-B1-37-14-F7</Hash>
+      <FilePath>C:\Users\Milagros\Desktop\proyectoApp\appIziChaoRepo\IziChao\IziChao\Views\Ventana1Principal.xaml</FilePath>
+      <Hash>0F-18-A1-1F-06-5B-A5-75-93-BB-7C-D7-25-EF-CE-9B</Hash>
       <Properties>
         <string>BackgroundImage</string>
       </Properties>
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>C:\Users\Milagros\Downloads\appIziChaoRepo-master\IziChao\IziChao\Views\Ventana2InicioS.xaml</FilePath>
-      <Hash>19-24-C0-9F-93-42-06-C7-A0-3E-10-D4-BE-8B-15-8B</Hash>
-      <Properties />
+      <FilePath>C:\Users\Milagros\Desktop\proyectoApp\appIziChaoRepo\IziChao\IziChao\Views\Ventana2InicioS.xaml</FilePath>
+      <Hash>63-D4-7B-2A-5C-6D-4A-44-D7-26-9E-42-68-85-65-33</Hash>
+      <Properties>
+        <string>BackgroundImageSource</string>
+      </Properties>
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>C:\Users\Milagros\Downloads\appIziChaoRepo-master\IziChao\IziChao\Views\Ventana3CrearCuenta.xaml</FilePath>
-      <Hash>AE-ED-99-F9-9E-11-5A-3C-FE-20-6C-D9-4F-36-4C-40</Hash>
-      <Properties />
+      <FilePath>C:\Users\Milagros\Desktop\proyectoApp\appIziChaoRepo\IziChao\IziChao\Views\Ventana3CrearCuenta.xaml</FilePath>
+      <Hash>5D-1F-D4-47-7F-2E-35-96-8C-A8-41-7F-B3-02-C8-92</Hash>
+      <Properties>
+        <string>BackgroundImageSource</string>
+      </Properties>
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>C:\Users\Milagros\Downloads\appIziChaoRepo-master\IziChao\IziChao\Views\Ventana5Descripcion.xaml</FilePath>
+      <FilePath>C:\Users\Milagros\Desktop\proyectoApp\appIziChaoRepo\IziChao\IziChao\Views\Ventana5Descripcion.xaml</FilePath>
       <Hash>B4-84-D5-44-5A-7A-C5-B0-4A-9E-92-E4-D7-F4-D7-AC</Hash>
       <Properties>
         <string>BackgroundImage</string>
       </Properties>
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>C:\Users\Milagros\Downloads\appIziChaoRepo-master\IziChao\IziChao\Views\VentanaCarrito.xaml</FilePath>
-      <Hash>55-EA-D2-08-36-C0-C9-A2-F0-CD-F2-E7-4E-3D-4C-36</Hash>
+      <FilePath>C:\Users\Milagros\Desktop\proyectoApp\appIziChaoRepo\IziChao\IziChao\Views\VentanaCarrito.xaml</FilePath>
+      <Hash>38-2E-A2-16-E9-BD-AD-4B-ED-27-0C-72-7D-27-E2-EC</Hash>
       <Properties>
         <string>BackgroundImage</string>
       </Properties>
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>C:\Users\Milagros\Downloads\appIziChaoRepo-master\IziChao\IziChao\Views\VentanaFinalizarCompra.xaml</FilePath>
-      <Hash>EC-CD-19-72-38-B7-60-A9-C7-98-81-B8-C5-DF-F5-F8</Hash>
+      <FilePath>C:\Users\Milagros\Desktop\proyectoApp\appIziChaoRepo\IziChao\IziChao\Views\VentanaFinalizarCompra.xaml</FilePath>
+      <Hash>C9-B4-87-5D-CF-65-AA-E4-05-EB-DB-50-A6-B7-63-EF</Hash>
       <Properties>
         <string>BackgroundImage</string>
       </Properties>
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>C:\Users\Milagros\Downloads\appIziChaoRepo-master\IziChao\IziChao\Views\VentanaPago.xaml</FilePath>
-      <Hash>3A-6E-A3-1C-25-C4-0D-B8-91-66-00-DB-C1-77-F0-AE</Hash>
+      <FilePath>C:\Users\Milagros\Desktop\proyectoApp\appIziChaoRepo\IziChao\IziChao\Views\VentanaPago.xaml</FilePath>
+      <Hash>4E-29-EB-FB-14-33-AE-45-1A-E7-26-F5-C3-55-C6-BD</Hash>
       <Properties>
         <string>BackgroundImage</string>
       </Properties>
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>C:\Users\Milagros\Downloads\appIziChaoRepo-master\IziChao\IziChao\Views\VentanaScanner.xaml</FilePath>
-      <Hash>7D-8D-CD-96-CF-77-9A-04-44-C7-4A-8F-8F-96-D7-22</Hash>
-      <Properties />
+      <FilePath>C:\Users\Milagros\Desktop\proyectoApp\appIziChaoRepo\IziChao\IziChao\Views\VentanaScanner.xaml</FilePath>
+      <Hash>27-13-3E-18-5C-67-D6-F3-35-AF-0F-00-CE-94-9D-AE</Hash>
+      <Properties>
+        <string>BackgroundImage</string>
+      </Properties>
     </XamlFileMeta>
   </Files>
 </XamlProjectMeta>

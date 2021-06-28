@@ -17,7 +17,7 @@ namespace IziChao.Views
             InitializeComponent();
         }
 
-        private async void BtnCrearCuenta_Clicked(object sender, EventArgs e)
+        private async void BtnIngresar_Clicked(object sender, EventArgs e)
         {
             await Navigation.PushModalAsync(new VentanaScanner());
         }

@@ -1199,11 +1199,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Milagros\\Downloads\\appIziChaoRepo-master\\IziChao\\IziChao.iOS\\IziChao.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Milagros\\Desktop\\proyectoApp\\appIziChaoRepo\\IziChao\\IziChao.iOS\\IziChao.iOS.csproj",
       "projectName": "IziChao.iOS",
-      "projectPath": "C:\\Users\\Milagros\\Downloads\\appIziChaoRepo-master\\IziChao\\IziChao.iOS\\IziChao.iOS.csproj",
+      "projectPath": "C:\\Users\\Milagros\\Desktop\\proyectoApp\\appIziChaoRepo\\IziChao\\IziChao.iOS\\IziChao.iOS.csproj",
       "packagesPath": "C:\\Users\\Milagros\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Milagros\\Downloads\\appIziChaoRepo-master\\IziChao\\IziChao.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Milagros\\Desktop\\proyectoApp\\appIziChaoRepo\\IziChao\\IziChao.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1224,8 +1224,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Milagros\\Downloads\\appIziChaoRepo-master\\IziChao\\IziChao\\IziChao.csproj": {
-              "projectPath": "C:\\Users\\Milagros\\Downloads\\appIziChaoRepo-master\\IziChao\\IziChao\\IziChao.csproj"
+            "C:\\Users\\Milagros\\Desktop\\proyectoApp\\appIziChaoRepo\\IziChao\\IziChao\\IziChao.csproj": {
+              "projectPath": "C:\\Users\\Milagros\\Desktop\\proyectoApp\\appIziChaoRepo\\IziChao\\IziChao\\IziChao.csproj"
             }
           }
         }

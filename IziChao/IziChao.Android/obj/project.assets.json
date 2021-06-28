@@ -2069,11 +2069,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Milagros\\Downloads\\appIziChaoRepo-master\\IziChao\\IziChao.Android\\IziChao.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Milagros\\Desktop\\proyectoApp\\appIziChaoRepo\\IziChao\\IziChao.Android\\IziChao.Android.csproj",
       "projectName": "IziChao.Android",
-      "projectPath": "C:\\Users\\Milagros\\Downloads\\appIziChaoRepo-master\\IziChao\\IziChao.Android\\IziChao.Android.csproj",
+      "projectPath": "C:\\Users\\Milagros\\Desktop\\proyectoApp\\appIziChaoRepo\\IziChao\\IziChao.Android\\IziChao.Android.csproj",
       "packagesPath": "C:\\Users\\Milagros\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Milagros\\Downloads\\appIziChaoRepo-master\\IziChao\\IziChao.Android\\obj\\",
+      "outputPath": "C:\\Users\\Milagros\\Desktop\\proyectoApp\\appIziChaoRepo\\IziChao\\IziChao.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2094,8 +2094,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\Milagros\\Downloads\\appIziChaoRepo-master\\IziChao\\IziChao\\IziChao.csproj": {
-              "projectPath": "C:\\Users\\Milagros\\Downloads\\appIziChaoRepo-master\\IziChao\\IziChao\\IziChao.csproj"
+            "C:\\Users\\Milagros\\Desktop\\proyectoApp\\appIziChaoRepo\\IziChao\\IziChao\\IziChao.csproj": {
+              "projectPath": "C:\\Users\\Milagros\\Desktop\\proyectoApp\\appIziChaoRepo\\IziChao\\IziChao\\IziChao.csproj"
             }
           }
         }

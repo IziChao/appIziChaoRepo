@@ -5,7 +5,7 @@
              BackgroundImage="FONDO7.jpeg">
     <ContentPage.Content>
         <StackLayout>
-            <StackLayout Padding="15,60" Margin="53">
+            <StackLayout Padding="15,90" Margin="53">
                 <Entry  x:Name="boxNomPropietario" Placeholder="Nombre del Propietario" />
                 <Entry  x:Name="boxApePropietario" Placeholder="Apellido del Propietario"/>
                 <Entry  x:Name="boxNumTarjeta" Placeholder="Numero de Tarjeta"/>
@@ -16,7 +16,7 @@
             </StackLayout>
 
             <StackLayout >
-                <Button Text="Pagar Compra" Margin="10"  CornerRadius="15" BackgroundColor="#7B5C36"
+                <Button Text="Pagar Compra" Margin="0,30,0,0"  CornerRadius="15" BackgroundColor="#7B5C36"
                                 TextColor="White"  FontSize="18" 
                                     x:Name="BtnPagarCompra" BorderColor="White" BorderWidth="2" Clicked="BtnPagarCompra_Clicked">
 
