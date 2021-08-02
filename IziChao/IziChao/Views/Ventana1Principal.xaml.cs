@@ -19,7 +19,7 @@ namespace IziChao.Views
 
         public async void BtnV1IniciarS_Clicked(object sender, EventArgs e)
         {
-            await Navigation.PushModalAsync(new Ventana2InicioS());   
+            await Navigation.PushAsync(new Ventana2InicioS());   
         }
 
         private async void BtnV1CrearC_Clicked(object sender, EventArgs e)

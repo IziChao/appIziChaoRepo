@@ -19,7 +19,7 @@ namespace IziChao.Views
 
         private async void BtnOtroP_Clicked(object sender, EventArgs e)
         {
-            await Navigation.PushModalAsync(new VentanaScanner());
+            //await Navigation.PushModalAsync(new VentanaScanner());
         }
 
         private async void BtnPagar_Clicked(object sender, EventArgs e)

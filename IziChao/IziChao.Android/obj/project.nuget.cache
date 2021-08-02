@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "EFX4wT8+5B5nwkJR2Fsldy4aT6LOEZWbqXmy9z3I2KEYOFYlyH89EU5OxvOtd2Q2TQB2ohzu4Ba9Yvwimz8RBg==",
+  "dgSpecHash": "W8+igRpY7MrQvfcExjtiubkzFqfOa30bbW+ONxXG1xj48LexMmK3nv8y50IHcx+dqpgxKcrx4Z5aLsWim6iEVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Milagros\\Desktop\\proyectoApp\\appIziChaoRepo\\IziChao\\IziChao.Android\\IziChao.Android.csproj",
+  "projectFilePath": "D:\\izi\\appIziChaoRepo-master\\IziChao\\IziChao.Android\\IziChao.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Milagros\\.nuget\\packages\\fastandroidcamera\\2.0.0\\fastandroidcamera.2.0.0.nupkg.sha512",
     "C:\\Users\\Milagros\\.nuget\\packages\\livexaml\\2.1.73\\livexaml.2.1.73.nupkg.sha512",
+    "C:\\Users\\Milagros\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Milagros\\.nuget\\packages\\restsharp\\106.12.0\\restsharp.106.12.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.lifecycle.common\\1.1.1.3\\xamarin.android.arch.lifecycle.common.1.1.1.3.nupkg.sha512",

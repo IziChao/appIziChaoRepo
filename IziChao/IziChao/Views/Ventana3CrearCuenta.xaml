@@ -8,11 +8,10 @@
 
          <StackLayout >
             <StackLayout  Padding="20" Margin="50,300,50,0">
-                <Entry Placeholder="Nombres" />
-                <Entry Placeholder="Apellidos"  />
-                <Entry Placeholder="DNI"  />
-                <Entry Placeholder="Correo Electronico" />
-                <Entry Placeholder="Contraseña" IsPassword="True"/>
+                <Entry Placeholder="Nombres"  x:Name="txtNombre" />
+                <Entry Placeholder="Apellidos" x:Name="txtApe"  />
+                <Entry Placeholder="DNI" x:Name="txtdni"  />
+                <Entry Placeholder="Contraseña" IsPassword="True" x:Name="txtContra"/>
             </StackLayout>
 
                     <StackLayout Margin="0,55,0,0">

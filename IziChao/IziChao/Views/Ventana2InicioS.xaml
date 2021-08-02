@@ -7,8 +7,8 @@
 
         <StackLayout>
             <StackLayout  Padding="50" Margin="0,320,0,0">
-                <Entry Placeholder="Correo Electronico" />
-                <Entry Placeholder="Contraseña" IsPassword="True"/>
+                <Entry Placeholder="Usuario"  x:Name="txtUsuario"/>
+                <Entry Placeholder="Contraseña" IsPassword="True" x:Name="txtContraseña"/>
 
             </StackLayout>
 

@@ -9,8 +9,9 @@ namespace IziChao
         public App()
         {
             InitializeComponent();
+            MainPage = new NavigationPage(new Views.Ventana1Principal());
 
-            MainPage = new Views.Ventana1Principal();
+
         }
 
         protected override void OnStart()

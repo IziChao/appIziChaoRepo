@@ -7,16 +7,13 @@
          <StackLayout>
             <StackLayout HeightRequest="180" WidthRequest="100" Margin="15" >
 
-                    <Label Text="¡Hola Milagros :) !"  FontSize="40" TextColor="Black"  VerticalOptions="CenterAndExpand"  />
+                    <Label Text="¡Hola !"  FontSize="40" TextColor="Black"  VerticalOptions="CenterAndExpand"  x:Name="lblBienvenida" />
+                <Label Text="" x:Name="txtresultado" />
 
-                </StackLayout>
+            </StackLayout>
           
            
-            <Frame CornerRadius="10" HorizontalOptions="Center"  BackgroundColor="#e9e1cc" Margin="15,0,15,20"  >
-                <StackLayout>
-                    <Image Source="logoI.png"  HeightRequest="230" ></Image>
-                </StackLayout>
-            </Frame>
+            
 
             <StackLayout Padding="50">
 

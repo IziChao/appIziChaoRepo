@@ -1,4 +1,5 @@
-﻿using System;
+﻿using IziChao.Modelo;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,11 +14,15 @@ namespace IziChao.Views
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class VentanaScanner : ContentPage
     {
-        public VentanaScanner()
+        public VentanaScanner(string u)
         {
             InitializeComponent();
+         
+            lblBienvenida.Text = "Hola "+ u;
 
         }
+
+
 
         private async void BtnScanner_Clicked(object sender, EventArgs e)
         {
@@ -31,7 +36,7 @@ namespace IziChao.Views
 
                 if (result != null)
                 {
-  
+                    
                     await Navigation.PushModalAsync(new Ventana5Descripcion());
                 }
 

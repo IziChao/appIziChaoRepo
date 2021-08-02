@@ -14,12 +14,16 @@ namespace IziChao.Views
     {
         public Ventana5Descripcion()
         {
+            
             InitializeComponent();
+            
         }
 
         private async void BtnCarrito_Clicked(object sender, EventArgs e)
         {
             await Navigation.PushModalAsync(new VentanaCarrito());
+
+            
         }
 
         private async void BtnAgregar_Clicked(object sender, EventArgs e)
@@ -29,7 +33,7 @@ namespace IziChao.Views
 
         private async void BtnBuscar_Clicked(object sender, EventArgs e)
         {
-            await Navigation.PushModalAsync(new VentanaScanner());
+            
         }
 
 

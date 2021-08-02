@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Milagros\\Desktop\\proyectoApp\\appIziChaoRepo\\IziChao\\IziChao.Android\\IziChao.Android.csproj": {}
+    "D:\\izi\\appIziChaoRepo-master\\IziChao\\IziChao.Android\\IziChao.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Milagros\\Desktop\\proyectoApp\\appIziChaoRepo\\IziChao\\IziChao.Android\\IziChao.Android.csproj": {
+    "D:\\izi\\appIziChaoRepo-master\\IziChao\\IziChao.Android\\IziChao.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Milagros\\Desktop\\proyectoApp\\appIziChaoRepo\\IziChao\\IziChao.Android\\IziChao.Android.csproj",
+        "projectUniqueName": "D:\\izi\\appIziChaoRepo-master\\IziChao\\IziChao.Android\\IziChao.Android.csproj",
         "projectName": "IziChao.Android",
-        "projectPath": "C:\\Users\\Milagros\\Desktop\\proyectoApp\\appIziChaoRepo\\IziChao\\IziChao.Android\\IziChao.Android.csproj",
+        "projectPath": "D:\\izi\\appIziChaoRepo-master\\IziChao\\IziChao.Android\\IziChao.Android.csproj",
         "packagesPath": "C:\\Users\\Milagros\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Milagros\\Desktop\\proyectoApp\\appIziChaoRepo\\IziChao\\IziChao.Android\\obj\\",
+        "outputPath": "D:\\izi\\appIziChaoRepo-master\\IziChao\\IziChao.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\Milagros\\Desktop\\proyectoApp\\appIziChaoRepo\\IziChao\\IziChao\\IziChao.csproj": {
-                "projectPath": "C:\\Users\\Milagros\\Desktop\\proyectoApp\\appIziChaoRepo\\IziChao\\IziChao\\IziChao.csproj"
+              "D:\\izi\\appIziChaoRepo-master\\IziChao\\IziChao\\IziChao.csproj": {
+                "projectPath": "D:\\izi\\appIziChaoRepo-master\\IziChao\\IziChao\\IziChao.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\Milagros\\Desktop\\proyectoApp\\appIziChaoRepo\\IziChao\\IziChao\\IziChao.csproj": {
+    "D:\\izi\\appIziChaoRepo-master\\IziChao\\IziChao\\IziChao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Milagros\\Desktop\\proyectoApp\\appIziChaoRepo\\IziChao\\IziChao\\IziChao.csproj",
+        "projectUniqueName": "D:\\izi\\appIziChaoRepo-master\\IziChao\\IziChao\\IziChao.csproj",
         "projectName": "IziChao",
-        "projectPath": "C:\\Users\\Milagros\\Desktop\\proyectoApp\\appIziChaoRepo\\IziChao\\IziChao\\IziChao.csproj",
+        "projectPath": "D:\\izi\\appIziChaoRepo-master\\IziChao\\IziChao\\IziChao.csproj",
         "packagesPath": "C:\\Users\\Milagros\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Milagros\\Desktop\\proyectoApp\\appIziChaoRepo\\IziChao\\IziChao\\obj\\",
+        "outputPath": "D:\\izi\\appIziChaoRepo-master\\IziChao\\IziChao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -110,6 +110,14 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.12.0, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",

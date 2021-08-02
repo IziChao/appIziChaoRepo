@@ -24,7 +24,7 @@ namespace IziChao.Views
 
         private async void BtnOtraCompra_Clicked(object sender, EventArgs e)
         {
-            await Navigation.PushModalAsync(new VentanaScanner());
+            //await Navigation.PushModalAsync(new VentanaScanner());
         }
     }
 }
